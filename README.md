@@ -35,7 +35,7 @@ $ top
 
 ### 🖼 (3) 스크린샷
 
-<img src="asset/top.jpg" alt="top 명령어 결과화면 스크린샷">
+<img src="asset/top.jpg" alt="top 명령어 결과화면 스크린샷" width = 100>
 
 ---
 

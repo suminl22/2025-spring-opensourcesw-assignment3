@@ -35,7 +35,7 @@ $ top
 
 ### 🖼 (3) 스크린샷
 
-<img src="asset/top.png" alt="top 명령어 결과화면 스크린샷">
+<img src="asset/top.jpg" alt="top 명령어 결과화면 스크린샷">
 
 ---
 
@@ -61,7 +61,7 @@ $ ps -ef | grep [프로세스명]
 
 ### 🖼 (3) 스크린샷
 
-<img src="asset/ps.png" alt="ps 명령어 결과화면 스크린샷">
+<img src="asset/ps.jpg" alt="ps 명령어 결과화면 스크린샷">
 
 ---
 
